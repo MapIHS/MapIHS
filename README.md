@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/b5f80769-2884-4fad-bc7e-668a20291054.svg)](https://wakatime.com/@b5f80769-2884-4fad-bc7e-668a2029105) ![](https://komarev.com/ghpvc/?username=mapihs) ![Codewars Badge](https://www.codewars.com/users/MapIHS/badges/micro)
+[![wakatime](https://wakatime.com/badge/user/b5f80769-2884-4fad-bc7e-668a20291054.svg)](https://wakatime.com/@b5f80769-2884-4fad-bc7e-668a20291054) ![](https://komarev.com/ghpvc/?username=mapihs) ![Codewars Badge](https://www.codewars.com/users/MapIHS/badges/micro)
 
 # Maptuhul Ihsan (Ihsan)
 
