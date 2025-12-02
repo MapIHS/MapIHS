@@ -8,7 +8,7 @@ I'm a Developer based in Indonesia. Day-to-day, I mostly learning mobile develop
 I love Music, Manga, Manhwa, Manhua, and Anime.
 
 ## 🚀 Technologies & Tools
-- Fluter Development
+- Flutter Development
 - DevOps
 
 ## 📫 How to reach me
