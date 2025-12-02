@@ -8,11 +8,8 @@ I'm a Developer based in Indonesia. Day-to-day, I mostly learning mobile develop
 I love Music, Manga, Manhwa, Manhua, and Anime.
 
 ## 🚀 Technologies & Tools
-- Mobile Development
-- UI/UX Design
-
-## 📈 GitHub Stats
-![Ihsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapihs&show_icons=true&theme=radical)
+- Fluter Development
+- DevOps
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/maptuhul-ihsan)
