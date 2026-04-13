@@ -3,7 +3,7 @@
 # Maptuhul Ihsan (Ihsan)
 
 ## 👋 About Me
-I'm a Developer based in Indonesia.
+I'm a Developer based in Indonesia, i'm tech enthusiast and still beginner in programming. I love web scraping (I think), and creating bugs 🐛. 
 
 I love Music, Manga, Manhwa, Manhua, and Anime.
 
