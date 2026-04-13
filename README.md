@@ -3,14 +3,9 @@
 # Maptuhul Ihsan (Ihsan)
 
 ## 👋 About Me
-I'm a Developer based in Indonesia. Day-to-day, I mostly learning mobile developer stuff and currently learning UI/UX designer.
+I'm a Developer based in Indonesia.
 
 I love Music, Manga, Manhwa, Manhua, and Anime.
 
-## 🚀 Technologies & Tools
-- Flutter Development
-- DevOps
-
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/maptuhul-ihsan)
-- [Twitter](https://twitter.com/ihsmap)
